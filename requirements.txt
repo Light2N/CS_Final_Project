@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+opencv-contrib-python
+tensorflow-cpu
+pdf2image
+vietocr==0.3.5
+torch
+torchvision
+pyyaml
